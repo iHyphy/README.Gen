@@ -58,12 +58,6 @@ const questions = [
         name: 'email',
         message: 'What email would you like to provide for questions or concerns? (if there are any)', 
         
-    },
-    {
-        type: 'input',
-        name: 'githubUsername',
-        message: 'What is your github username?',
-
     }
 ];
 
